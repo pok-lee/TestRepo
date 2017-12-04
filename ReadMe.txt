@@ -2,6 +2,6 @@ Test merge shenanigans
 
 LineA
 LineB
-LineC
+LineC Hello world
 LineD
 LineE
