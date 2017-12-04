@@ -1,7 +1,7 @@
 Test merge shenanigans
 
-LineA
-LineB
-LineC
-LineD
-LineE
+Line A
+Line B
+Line C
+Line D
+Line E
